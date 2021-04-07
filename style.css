@@ -12,6 +12,8 @@
 }
 .content-box {
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .features {
@@ -86,4 +88,5 @@
 .form p {
   color: white;
   font-size: 20px;
+  margin-top: 5px;
 }
